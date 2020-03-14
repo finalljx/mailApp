@@ -1,0 +1,6 @@
+[submodule "app1"]
+	path = app1
+	url = https://github.com/finalljx/app1.git
+[submodule "app2"]
+	path = app2
+	url = https://github.com/finalljx/app2.git
